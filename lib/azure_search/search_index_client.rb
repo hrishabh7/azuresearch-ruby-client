@@ -8,7 +8,7 @@ require 'http'
 # @author Faissal Elamraoui
 # @since 0.1.0
 module AzureSearch
-  API_VERSION = "2016-09-01".freeze
+  API_VERSION = "2019-05-06".freeze
 
   # Client to perform requests to an Azure Search service.
   class SearchIndexClient
